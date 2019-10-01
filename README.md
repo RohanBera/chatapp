@@ -1,3 +1,7 @@
-This is a chat-app developed in python without the use of any framework.
+# Chat App
+ 
+- - - -
 
-It makes use of sockets and CGI to create an UI.
+* This is a chat-app developed in python without the use of any framework.
+
+* It makes use of sockets and CGI to create an UI.
